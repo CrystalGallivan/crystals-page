@@ -5,16 +5,16 @@
         <div id="carouselheader" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="assets/heroimage4.jpg" class="d-block w-100 h100" alt="...">
+              <img src="assets/heroimage4.jpg" class="d-block w-100 h100">
             </div>
             <div class="carousel-item">
-              <img src="assets/heroimage2.jpg" class="d-block w-100 h100" alt="...">
+              <img src="assets/heroimage2.jpg" class="d-block w-100 h100">
             </div>
             <div class="carousel-item">
-              <img src="assets/foodImg.jpg" class="d-block w-100 h100" alt="...">
+              <img src="assets/foodImg.jpg" class="d-block w-100 h100">
             </div>
             <div class="carousel-item">
-              <img src="assets/capstoneImg.PNG" class="d-block w-100 h100" alt="...">
+              <img src="assets/capstoneImg.PNG" class="d-block w-100 h100">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselheader" role="button" data-slide="prev">
